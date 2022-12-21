@@ -10,7 +10,7 @@ The website focuses on learning to build webside only with HTML, CSS, JavaScript
 - Adding elements
 - Removing elements
 
-## [Live Preview]()
+## [Live Preview](https://countdowns-app.netlify.app/)
 
 ### SnapShot of the Webpage
 
